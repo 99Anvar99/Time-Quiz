@@ -1,3 +1,5 @@
+Deployed Page: https://99anvar99.github.io/Time-Quiz/
+
 # Time-Quiz
 Time quiz that has been written JavaScript, CSS, HTML
 
